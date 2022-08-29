@@ -1,3 +1,12 @@
+
+[Astra] & [Абстрактные синтаксические деревья (AST), перезаписи кода в AST, Truffle API]
+инструмент для масштабного рефакторинга Java-программ.  
+https://docs.google.com/document/d/1b9pA4M6RjzX-GFxqDqndSv5ElZ1LmzGfTwKTWXunZDk/   
+
+Реверс инжиниринг архитектуры GraalVM  
+https://drive.google.com/drive/u/0/folders/1gmd7rLer5a5JppGYtckBThVkcXnti-0G  
+
+
 ![Astra logo](images/AlfaAstra-01.png)
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
