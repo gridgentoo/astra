@@ -1,4 +1,7 @@
 
+Оригинальный репозитарий Astra : :    
+https://github.com/alfasoftware/astra  
+
 [Astra] & [перезаписи кода в AST, Truffle API]
 инструмент для масштабного рефакторинга Java-программ.  
 https://docs.google.com/document/d/1b9pA4M6RjzX-GFxqDqndSv5ElZ1LmzGfTwKTWXunZDk/   
@@ -6,8 +9,17 @@ https://docs.google.com/document/d/1b9pA4M6RjzX-GFxqDqndSv5ElZ1LmzGfTwKTWXunZDk/
 Реверс инжиниринг архитектуры GraalVM  
 https://drive.google.com/drive/u/0/folders/1gmd7rLer5a5JppGYtckBThVkcXnti-0G  
 
-Оригинальный репозитарий Astra : :    
-https://github.com/alfasoftware/astra  
+[Sourcegraph] движок для навигации по исходным текстам  
+https://github.com/gridgentoo/sourcegraph  
+
+[Sourcegraph + AI]  движок для навигации по исходным текстам  
+https://docs.google.com/document/d/1bP-_YpqcE_fYfeSfp8CaswHKhX8ksh6lK_PVdWssuec/   
+ 
+С использванием Kubeflow подготовлен пример движка для поиска кода (Go, Java, Python, JavaScript, Ruby)
+Предложенный набор данных включает более 2 млн связок "код-комментарий", подготовленных на основе исходных текстов существующих открытых библиотек. Код охватывает полный исходный текст отдельных функций или методов, а комментарий описывает выполняемые функцией действия (приводится детальная документация). В настоящее время наборы данных подготовлены для языков Python, JavaScript, Ruby, Go, Java и PHP. Предоставлены примеры использования предложенных наборов данных для обучения различных типов нейронных сетей, включая Neural-Bag-Of-Words, RNN, Self-Attention (BERT) и 1D-CNN+Self-Attention Hybrid.
+Для развития механизмов поиска на естественном языке дополнительно подготовлен набор CodeSearchNet Challenge, включающий 99 типовых запросов с около 4 тысячами экспертных аннотаций, описывающих наиболее вероятные привязки к коду в наборе данных CodeSearchNet Corpus, охватывающем около 6 млн методов и функций (размер набора около 20 Гб).
+[Kubeflow] для поиска кода (Go, Java, Python, JavaScript, Ruby)   
+https://github.com/gridgentoo/kubeflow_CodeSearchNet  
 
 ![Astra logo](images/AlfaAstra-01.png)
 
