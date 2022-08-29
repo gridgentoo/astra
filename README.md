@@ -6,6 +6,8 @@ https://docs.google.com/document/d/1b9pA4M6RjzX-GFxqDqndSv5ElZ1LmzGfTwKTWXunZDk/
 Реверс инжиниринг архитектуры GraalVM  
 https://drive.google.com/drive/u/0/folders/1gmd7rLer5a5JppGYtckBThVkcXnti-0G  
 
+Оригинальный репозитарий Astra : :    
+https://github.com/alfasoftware/astra  
 
 ![Astra logo](images/AlfaAstra-01.png)
 
