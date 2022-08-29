@@ -1,5 +1,5 @@
 
-[Astra] & [Абстрактные синтаксические деревья (AST), перезаписи кода в AST, Truffle API]
+[Astra] & [перезаписи кода в AST, Truffle API]
 инструмент для масштабного рефакторинга Java-программ.  
 https://docs.google.com/document/d/1b9pA4M6RjzX-GFxqDqndSv5ElZ1LmzGfTwKTWXunZDk/   
 
